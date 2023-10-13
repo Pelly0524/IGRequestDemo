@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IGRequestDemo", "IGRequestDemo\IGRequestDemo.csproj", "{AFE73BC7-B360-483F-AC7A-82CB89A8FF83}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IGRequestDemoTests", "IGRequestDemoTests\IGRequestDemoTests.csproj", "{A1E20028-412F-4A45-BAA5-C7A0DD5A46FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFE73BC7-B360-483F-AC7A-82CB89A8FF83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFE73BC7-B360-483F-AC7A-82CB89A8FF83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFE73BC7-B360-483F-AC7A-82CB89A8FF83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFE73BC7-B360-483F-AC7A-82CB89A8FF83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1E20028-412F-4A45-BAA5-C7A0DD5A46FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1E20028-412F-4A45-BAA5-C7A0DD5A46FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1E20028-412F-4A45-BAA5-C7A0DD5A46FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1E20028-412F-4A45-BAA5-C7A0DD5A46FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C26768EC-4DA7-450E-BC57-D838FD821E4A}
+	EndGlobalSection
+EndGlobal
