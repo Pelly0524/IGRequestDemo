@@ -21,7 +21,7 @@ namespace IGRequestDemo
 
         public RestApiClient()
         {
-            _httpHelper.AddRequestHeader("X-IG-API-KEY", "4f2b6ed0c50e0b7bd685f1e275fa318f94a333de");
+            _httpHelper.AddRequestHeader("X-IG-API-KEY", "");
             _httpHelper.AddRequestHeader("VERSION", "1");
         }
 
